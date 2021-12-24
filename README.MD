@@ -1,3 +1,11 @@
+# Install's:
+
+* npm install -D json-server json-server-auth
+
+# Para rodar a api:
+
+npm start
+
 # 🔐 JSON Server Auth
 
 JWT authentication middleware for **[JSON Server](https://github.com/typicode/json-server)**
