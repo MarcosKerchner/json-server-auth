@@ -1,0 +1,57 @@
+{
+  "users": [
+    {
+      "email": "marcos@marcos",
+      "password": "$2a$10$rLt9bePd.sBQBlc4SFEyM.Uv/JxzusXCoZb2kT3buDMpzD.tTfzjm",
+      "id": 1
+    },
+    {
+      "email": "alex@alex",
+      "password": "$2a$10$zIG4qikTqkXP4yX8uGdLbOpsvTViRmQu6C0vxIZm6KEXKM91tv/Ka",
+      "id": 2
+    }
+  ],
+  "categories": [
+    {
+      "userId": 1,
+      "title": "Compras 2",
+      "id": 8
+    },
+    {
+      "userId": 2,
+      "title": "Compras Alex",
+      "id": 10
+    },
+    {
+      "title": "Trabalhos",
+      "userId": "1",
+      "id": 11
+    }
+  ],
+  "tasks": [
+    {
+      "categoryId": 8,
+      "title": "pão",
+      "userId": "1",
+      "id": 1
+    },
+    {
+      "categoryId": 8,
+      "title": "leite",
+      "userId": "1",
+      "id": 2
+    },
+    {
+      "categoryId": 11,
+      "title": "final android",
+      "userId": "1",
+      "id": 3
+    },
+    {
+      "categoryId": 11,
+      "title": "tcc",
+      "userId": "1",
+      "id": 4
+    }
+  ]
+}

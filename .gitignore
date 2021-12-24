@@ -2,8 +2,7 @@
 dist
 
 # Fixtures
-db.json
-routes.json
+
 
 # Environment variables file
 .env
